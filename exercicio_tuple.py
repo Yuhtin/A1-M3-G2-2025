@@ -1,5 +1,5 @@
 # Alunos envolvidos:
-# Davi Duarte, João Freitas, Nicole Neves, Isabel Montenegro, Eduardo Cassarini, Christian Santos
+# Davi Duarte, João Freitas, Nicole Neves, Isabel Montenegro, Eduardo Cassarini, Christian Santos, Pedro Siqueira
 
 # Imutável = Não pode ser alterado.
 # Ordenada, vai garantir que seja ordenada
