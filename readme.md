@@ -3,10 +3,10 @@
 ## Alunos envolvidos
 
 - Davi Duarte
-- João Freitas  
+- João Furtado  
 - Nicole Neves
 - Isabel Montenegro
-- Eduardo Cassarini
+- Eduardo Casarini
 - Christian Santos
 - Pedro Siqueira
 
